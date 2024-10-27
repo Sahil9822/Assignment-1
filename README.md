@@ -129,7 +129,12 @@ You should see the result of the evaluation (either true or false), for example:
 "result": true
 }
 
-Screenshot: -
+Screenshot: 
+![image](https://github.com/user-attachments/assets/647ee473-f3eb-4264-82c8-3d5683b0badd)
+![image](https://github.com/user-attachments/assets/dffcae13-6ec8-4537-82d4-9b7f4e31b8d0)
+![image](https://github.com/user-attachments/assets/9f1005af-60c0-4b14-88b9-fc4803d2274a)
+![image](https://github.com/user-attachments/assets/d26759a1-d052-4315-bd80-ac2bf3ae2a49)
+
  
 
  
